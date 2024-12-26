@@ -1,0 +1,25 @@
+h2{
+   color: red; 
+}
+.titulo1{
+    position: relative;
+    display: flex;
+}
+.form-control{
+    width: 300px;
+    padding-top: 10px;
+}
+.login{
+    display:flexbox;
+    padding-right: 100px;
+}
+.prin{
+    display:contents;
+    margin-left:auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.lblEsqueciSenha{
+    color: black;
+}
