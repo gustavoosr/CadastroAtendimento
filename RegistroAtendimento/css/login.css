@@ -1,21 +1,33 @@
-h2{
-   color: red; 
-}
-.titulo1{
-    position: relative;
+.prin{
+    background: wheat;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.login{
+    width: 100%;
+    background:darkgray;
+    display: block;
+    unicode-bidi: isolate;
+    
+
+}
+.form-text a{
+    color: black;
+}
+.form-label{
+    color: brown;
+    padding-right:350px;
+    position:relative;
+    
 }
 .form-control{
     width: 300px;
-    padding-top: 10px;
+    margin-right:100px;
+    background-color:cornsilk;
 }
-.login{
-    display:flex;
-    flex-wrap: wrap;
-}
-.prin{
-    margin: 100px;
-}
-.lblEsqueciSenha{
-    color: black;
+body{
+    background-color: black;
+    margin: auto;
 }
